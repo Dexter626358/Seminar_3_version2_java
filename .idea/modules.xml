@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Max_min_mean/Max_min_mean.iml" filepath="$PROJECT_DIR$/Max_min_mean/Max_min_mean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveOddNumbers/RemoveOddNumbers.iml" filepath="$PROJECT_DIR$/RemoveOddNumbers/RemoveOddNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Seminar3.iml" filepath="$PROJECT_DIR$/.idea/Seminar3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookShop/bookShop.iml" filepath="$PROJECT_DIR$/bookShop/bookShop.iml" />
+    </modules>
+  </component>
+</project>

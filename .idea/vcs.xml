@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InsertionSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Max_min_mean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RemoveOddNumbers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bookShop" vcs="Git" />
+  </component>
+</project>

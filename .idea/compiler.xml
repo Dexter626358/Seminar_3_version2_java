@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="InsertionSort" />
+        <module name="bookShop" />
+        <module name="Max_min_mean" />
+        <module name="RemoveOddNumbers" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bookShop" target="17" />
+      <module name="InsertionSort" target="17" />
+      <module name="Max_min_mean" target="17" />
+      <module name="RemoveOddNumbers" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
